@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Resource>/cf-courses-data/IBMDeveloperSkillsNetwork-PY0101EN-SkillsNetwork/labs/Module 5/data/Example1.txt&lt;/code</Resource><RequestId>a67af0b2-69e4-445d-a5c4-4795c5d0067f</RequestId><httpStatusCode>404</httpStatusCode></Error>
